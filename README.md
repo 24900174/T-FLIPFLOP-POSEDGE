@@ -57,4 +57,4 @@ RegisterNumber:24900174
 ![392897295-e34dd589-d36c-4110-8840-9ad012bd6d76](https://github.com/user-attachments/assets/768a346b-1f4d-410a-af32-6db1c8a25e15)
 
 
-**RESULTS**program for T flipflop was verified in quartus using Verilog programming.
+**RESULTS** program for T flipflop was verified in quartus using Verilog programming.
